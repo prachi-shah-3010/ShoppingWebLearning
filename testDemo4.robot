@@ -12,7 +12,7 @@ ${Error_Message_Login}      css:.alert-danger
 
 *** Test Cases ***      username        password
 Invalid username        dsahed          learning
-Invalid password        rahulshetty     ploudfg
+Invalid password        xyzabc           ploudfg
 special characters      @#$             learning
 
 
